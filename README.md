@@ -70,7 +70,7 @@ Notion MCP Connector
               Progress bars · Badges · Quotes · Victory block
 ```
 
-![GATE Dominator Architecture](architecture.svg)
+![GATE Dominator Architecture](architecture.png)
 
 ---
 
